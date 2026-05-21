@@ -1,7 +1,9 @@
-# python-console-bank
+# Python Console Bank System 
 
 A simple banking system built with Python using Object-Oriented Programming (OOP).  
-This project runs in the console and simulates basic banking operations.
+This project simulates basic banking operations in a console-based interface.
+
+---
 
 ## Features
 
@@ -9,38 +11,52 @@ This project runs in the console and simulates basic banking operations.
 - Deposit money
 - Withdraw money
 - Check account balance
-- Transaction history
+- Transaction history tracking
 - Basic input validation
-- Console-based interface
+- Modular code structure
 
-## Technologies Used
+---
 
-- Python
+## Concepts Used
+
 - Object-Oriented Programming (OOP)
-- Datetime module
+- Encapsulation
+- Classes and Objects
+- Modules and imports
+- Datetime handling
+- Basic authentication logic
+
+---
 
 ## Project Structure
-- main.py
-- auth.py
-- bankaccount.py
+
+- main.py # Main program entry point
+- auth.py # User authentication (login/register)
+- bankaccount.py # Bank account logic (balance, deposit, withdraw)
+
+---
 
 ## How to Run
 
-  1. Clone the repository:
-  git clone https://github.com/joaquinbaldeon/python-console-bank.git
+1. Clone the repository:
+git clone https://github.com/joaquinbaldeon/python-console-bank.git
 
-  2.Go to the project folder:
-  cd python-console-bank
+2. Go to the project folder:
+cd python-console-bank
 
-  3.Run the program:
-  python main.py
+3. Run the program:
+python main.py
 
 ## Future Improvements
-- Save user data
-- Password encryption (hashing)
+- Save user data 
+- Password hashing for security
 - Money transfer between users
-- Better error handling
-- Graphical user interface (GUI)
+- Better error handling and input validation
 
 ## Author
-Developed by Joaquin David Baldeón Tomas
+
+Developed by Joaquin Baldeon
+
+## Note
+
+This project was built as a learning exercise to practice Python and OOP fundamentals.
