@@ -26,8 +26,8 @@ This project runs in the console and simulates basic banking operations.
 
 ## How to Run
 
-1. Clone the repository:
-git clone https://github.com/joaquinbaldeon/python-console-bank.git
+  1. Clone the repository:
+  git clone https://github.com/joaquinbaldeon/python-console-bank.git
 
   2.Go to the project folder:
   cd python-console-bank
