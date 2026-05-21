@@ -22,7 +22,7 @@ This project runs in the console and simulates basic banking operations.
 ## Project Structure
 - main.py
 - auth.py
-- backaccount.py
+- bankaccount.py
 
 ## How to Run
 
