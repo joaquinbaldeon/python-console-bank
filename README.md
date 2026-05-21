@@ -29,11 +29,11 @@ This project runs in the console and simulates basic banking operations.
 1. Clone the repository:
 git clone https://github.com/joaquinbaldeon/python-console-bank.git
 
-2.Go to the project folder:
-cd python-console-bank
+  2.Go to the project folder:
+  cd python-console-bank
 
-3.Run the program:
-python main.py
+  3.Run the program:
+  python main.py
 
 ## Future Improvements
 - Save user data
