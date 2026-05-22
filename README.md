@@ -30,7 +30,7 @@ This project simulates basic banking operations in a console-based interface.
 
 ## Project Structure
 
-- main.py # Main program entry point
+- main.py # Structure
 - auth.py # User authentication (login/register)
 - bankaccount.py # Bank account logic (balance, deposit, withdraw)
 
